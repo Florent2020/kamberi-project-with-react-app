@@ -15,7 +15,7 @@ function MainSection() {
       <Container>
         <Row>
           <Col xs={12} md={6}>
-            <img src={ImageGirl} alt="Image Girl" />
+            <img src={ImageGirl} alt="Girl" />
           </Col>
           <Col xs={12} md={6} className="candidates">
             <h1>For candidates</h1>
